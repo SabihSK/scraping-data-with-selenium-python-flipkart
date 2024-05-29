@@ -1,0 +1,14 @@
+# *-------------- Loggers & Formaters ----------------
+mypy
+pre-commit
+colorlog
+pre-commit
+#pydantic
+#pydantic[email]
+#pylint
+#python-dotenv
+
+# *-------------- Project dependencies ----------------
+webdriver-manager
+selenium
+pandas
